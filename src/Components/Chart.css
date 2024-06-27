@@ -1,0 +1,44 @@
+.chart-container {
+  padding: 20px;
+  max-width: 900px;
+  margin: auto;
+  background-color: rgb(61, 11, 177);
+  background-size: cover;
+}
+
+.button-group {
+  margin-bottom: 10px;
+}
+
+.chart-wrapper {
+  width: 100%;
+  height: 400px; 
+}
+.week{
+  border-color: chocolate;
+  background-color: transparent;
+  font-family: "roboto";
+  color: white;
+}
+.month{
+  border-color: rosybrown;
+  background-color: transparent;
+  font-family: "roboto";
+  color: white;
+}
+.daily{
+  border-color:burlywood;
+  background-color: transparent;
+  font-family: "roboto";
+  color: white;
+}
+.button{
+  border-radius: 5px;
+  margin-right: 3px;
+}
+.png{
+  border-color: red;
+  background-color: transparent;
+  font-family: "roboto";
+  color: white;
+}
